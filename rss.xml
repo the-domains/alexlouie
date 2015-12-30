@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AlexLouie]]></title>
+        <description><![CDATA[AlexLouie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 01:06:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Story Spark]]></title>
+            <description><![CDATA[<article><h1>Story Spark</h1><p>Lifestyle brand</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6438126f5cb4595bd3b693d6fad35a6a3e9d4c.jpg"></article>]]></description>
+            <link>undefinedstory-spark/index.html</link>
+            <guid isPermaLink="false">3477dd56-0aa3-4c23-a1e6-8710243eab0b</guid>
+            <pubDate>Wed, 30 Dec 2015 01:05:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
